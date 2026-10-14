@@ -1,5 +1,5 @@
 source_id,title,url,method,used_for,last_checked,notes
-client_github,NOD_Project README,https://github.com/eajrapetyan-tech/NOD_Project/tree/main,manual_read,client_idea_and_scope,2026-05-16,"В README описана идея Save you in history и обязанности участника"
+client_github,NOD_Project README,https://github.com/Babaykka/NOD_Project/tree/main,manual_read,client_idea_and_scope,2026-05-16,"В README описана идея Save you in history и обязанности участника"
 course_github,hse_nes_python lectures,https://github.com/jetminded/hse_nes_python/tree/main/lec,manual_read,technical_methods,2026-05-16,"В проекте использованы подходы из лекций: requests/BeautifulSoup, pandas, matplotlib, selenium"
 gov_spb_2025,Официальный сайт Администрации Санкт-Петербурга: турпоток 2025,https://www.gov.spb.ru/press/governor/308952/,static_page,market_size_2025,2026-05-16,"12.4 млн поездок в 2025, вклад 843.1 млрд руб."
 gov_spb_tourism_stats,Статистика Комитета по развитию туризма СПб,https://www.gov.spb.ru/gov/otrasl/c_tourism/statistic/,static_page,official_statistics_hub,2026-05-16,"Страница со ссылками на Турбарометр 2021-2025"

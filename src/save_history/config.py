@@ -13,6 +13,6 @@ HTML_SNAPSHOT_DIR = RAW_DIR / "html_snapshots"
 DEFAULT_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; HSE-NES-Data-Science-Project/1.0; "
-        "research-only; contact: eajrapetyan-tech)"
+        "research-only; contact: project-work)"
     )
 }
